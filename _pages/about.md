@@ -8,7 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+Welcome to My World of Scientific Exploration
+
+Medicinal Chemistry | Organic Chemistry | Analytical Chemistry | Natural Products
+
+Hello, and thank you for visiting my website! I'm Mohammad Firoznezhad, a passionate and dedicated researcher in the captivating realms of medicinal chemistry, analytical chemistry, and the fascinating world of natural products.
+
+With a strong background in Medicinal chemistry, Organic Chemistry, Medicinal Plant and Nano technology I have immersed myself in the pursuit of knowledge and innovation within these dynamic fields. My journey has taken me through exciting experiments, rigorous analyses, and the discovery of nature's hidden secrets.
+
+Through this website, I invite you to join me on a voyage through the intricate landscapes of science. Explore my research, delve into the complexities of molecular structures, and uncover the wonders of compounds extracted from nature itself.
+
+Whether you're a fellow researcher, a curious mind, or someone simply intrigued by the intersection of science and nature, you'll find a wealth of information, insights, and discoveries here. Let's embark on this intellectual journey together.
+
+Thank you for your interest, and I hope you enjoy your visit!
+
+
+
+
+
 
 A data-driven personal website
 ======
