@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to My World of Scientific Exploration"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to My World of Scientific Exploration
+
 
 Medicinal Chemistry | Organic Chemistry | Analytical Chemistry | Natural Products
 
